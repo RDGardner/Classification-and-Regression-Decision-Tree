@@ -1,0 +1,58 @@
+INFO:__main__:ETL: Abalone Data Set
+INFO:__main__:EDA: Abalone Data Set
+INFO:__main__:Running Abalone Ring Experiment: Decision Tree Classification using ID3 Algorithm
+INFO:__main__:Experiment Number: 1
+INFO:__main__:Experiment Number: 2
+INFO:__main__:Experiment Number: 3
+INFO:__main__:Experiment Number: 4
+INFO:__main__:Experiment Number: 5
+INFO:__main__:{1: 0.2489905787348587, 2: 0.23159303882195448, 3: 0.22933333333333333, 4: 0.2156084656084656, 5: 0.24738219895287958}
+INFO:__main__:ETL: Car Evaluation Data Set
+INFO:__main__:EDA: Car Evaluation Data Set
+INFO:__main__:Running Car Data Experiment: Decision Tree Classification using ID3 Algorithm
+INFO:__main__:Experiment Number: 1
+INFO:__main__:Experiment Number: 2
+INFO:__main__:Experiment Number: 3
+INFO:__main__:Experiment Number: 4
+INFO:__main__:Experiment Number: 5
+INFO:__main__:{1: 0.932258064516129, 2: 0.9451612903225807, 3: 0.932475884244373, 4: 0.9519230769230769, 5: 0.9424920127795527}
+INFO:__main__:ETL: Image Segmentation Data Set
+INFO:__main__:EDA: Image Segmentation Data Set
+INFO:__main__:Running Image Segmentation Experiment: Decision Tree Classification using ID3 Algorithm
+INFO:__main__:Experiment Number: 1
+INFO:__main__:Experiment Number: 2
+INFO:__main__:Experiment Number: 3
+INFO:__main__:Experiment Number: 4
+INFO:__main__:Experiment Number: 5
+INFO:__main__:{1: 0.8857142857142857, 2: 0.8888888888888888, 3: 0.9473684210526315, 4: 0.8205128205128205, 5: 0.8536585365853658}
+INFO:__main__:ETL: Wine Quality Data Set
+INFO:__main__:EDA: Wine Quality Data Set
+INFO:__main__:Running Wine Quality Experiment: Decision Tree Regression using CART Algorithm
+INFO:__main__:Early stopping threshold: 0.2 
+INFO:__main__:Experiment Number: 1
+INFO:__main__:Experiment Number: 2
+INFO:__main__:Experiment Number: 3
+INFO:__main__:Experiment Number: 4
+INFO:__main__:Experiment Number: 5
+INFO:__main__:{1: 0.6652348609447644, 2: 0.6502414414829654, 3: 0.6146640769792413, 4: 0.6338012075970577, 5: 0.6510973566300159}
+INFO:__main__:ETL: Computer Hardware Data Set
+INFO:__main__:EDA: Computer Hardware Data Set
+INFO:__main__:Running Experiment on Computer Hardware Data: Decision Tree Regression using CART Algorithm
+INFO:__main__:Early stopping threshold: 25435.435435435436 
+INFO:__main__:Experiment Number: 1
+INFO:__main__:Experiment Number: 2
+INFO:__main__:Experiment Number: 3
+INFO:__main__:Experiment Number: 4
+INFO:__main__:Experiment Number: 5
+INFO:__main__:{1: 380.4451754385965, 2: 174.23702485380116, 3: 260.17628654970764, 4: 4636.65114954811, 5: 25.984281156156158}
+INFO:__main__:ETL: Forest Fire Data Set
+INFO:__main__:EDA: Forest Fire Data Set
+INFO:__main__:Running Experiment on Forest Fire Data: Decision Tree Regression Using CART Algorithm
+INFO:__main__:Early stopping threshold: 1875.0 
+INFO:__main__:Experiment Number: 1
+INFO:__main__:Experiment Number: 2
+INFO:__main__:Experiment Number: 3
+INFO:__main__:Experiment Number: 4
+INFO:__main__:Experiment Number: 5
+INFO:__main__:{1: 369.4223665563535, 2: 712.2889218953019, 3: 6192.630790078865, 4: 1818.194264264343, 5: 12757.42829420779}
+INFO:__main__:Run time: 1594100901.7059321
